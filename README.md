@@ -1,3 +1,3 @@
 # AWAE-PREP
 
-[Blog](just-a-simple-guy.gitbook.io)
+https://just-a-simple-guy.gitbook.io/oswe/
