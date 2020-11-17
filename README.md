@@ -1,3 +1,3 @@
 # AWAE-PREP
 
-just-a-simple-guy.gitbook.io
+[Blog](just-a-simple-guy.gitbook.io)
