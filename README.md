@@ -11,4 +11,4 @@ https://grepbugs.com/browse
   - Similar to rinku's but includes syntax for grepping bugs
 
 https://regexone.com/ 
-  - ***Regex is important***, This walkthourgh will ony take you around 2 hours to master it
+  - ***Regex is important***, This walkthourgh will ony take you around 2 hours to master it. 
